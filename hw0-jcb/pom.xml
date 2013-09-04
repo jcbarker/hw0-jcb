@@ -4,8 +4,8 @@
 	<artifactId>hw0-jcb</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</connection>
-		<developerConnection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</developerConnection>
+		<connection>scm:ssh:jcbarker@github.com:jcbarker/hw0-jcb.git</connection>
+		<developerConnection>scm:ssh:jcbarker@github.com:jcbarker/hw0-jcb.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
