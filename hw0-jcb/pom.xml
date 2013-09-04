@@ -6,7 +6,7 @@
 	<scm>
 		<connection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</connection>
 		<developerConnection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</developerConnection>
-		<tag>SNAPSHOT</tag>
+		<tag>-SNAPSHOT</tag>
 	</scm>
 	<repositories>
 		<repository>
