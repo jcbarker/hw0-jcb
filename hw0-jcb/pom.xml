@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</connection>
 		<developerConnection>scm:git:jcbarker@github.com:jcbarker/hw0-jcb.git</developerConnection>
+		<url>https://github.com/jcbarker/hw0-jcb.git</url>
 	</scm>
 	<repositories>
 		<repository>
